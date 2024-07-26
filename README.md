@@ -18,3 +18,8 @@ Note: Power BI is a powerfull tool which can be used for many things for underst
 
 All the tasks have been performed on a jupyter notebook.
 Check the data_cleaning repository for the script for cleaning and transformation for the respective data.
+
+### Coffee Shop Sales Analysis
+
+<img width="556" alt="Coffee Power BI" src="https://github.com/user-attachments/assets/9766d6d3-16bb-4b5b-ac03-52a8359f3702">
+
