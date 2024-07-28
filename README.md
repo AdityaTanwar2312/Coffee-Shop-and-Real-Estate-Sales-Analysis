@@ -23,3 +23,8 @@ Check the data_cleaning repository for the script for cleaning and transformatio
 
 <img width="556" alt="Coffee Power BI" src="https://github.com/user-attachments/assets/9766d6d3-16bb-4b5b-ac03-52a8359f3702">
 
+### Real Estate Distribution
+
+<img width="280" alt="Real Estate Power BI" src="https://github.com/user-attachments/assets/790cc227-23b2-424a-bc0d-ed2614f63fd9">
+
+
