@@ -28,3 +28,7 @@ Check the data_cleaning repository for the script for cleaning and transformatio
 <img width="280" alt="Real Estate Power BI" src="https://github.com/user-attachments/assets/790cc227-23b2-424a-bc0d-ed2614f63fd9">
 
 
+Note: To understand the full analysis and the insights driven check it on my portfolio
+
+https://tanwaraditya2004.wixsite.com/data-analytics-portf
+
